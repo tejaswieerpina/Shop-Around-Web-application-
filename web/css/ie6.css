@@ -1,0 +1,13 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 12, 2015, 5:43:48 PM
+    Author     : SUSHMA
+*/
+.categories { height:383px; }
+.search { height:252px; }
+.product-info .product-desc
+{ background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/info.png', sizingMethod='scale');}
